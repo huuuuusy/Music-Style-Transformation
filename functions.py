@@ -1,12 +1,18 @@
 import music21
 from music21 import  *
 import shutil
-
 from collections import Counter, defaultdict
 from sklearn.cluster import KMeans
 import pandas as pd
 import numpy as np
 import sys, re, itertools, random, os
+
+def ReadMidi(file_path):
+    file = converter.parse(file_path)
+    components = []
+    for element in file.recurse():
+        components.append(element)
+    return components
 
 def TransferMidToChordTxt(file_path):
     try:
