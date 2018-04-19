@@ -65,8 +65,7 @@ def ExtractNoteAndChord(file_path, split_length,out_note_path,out_chord_path):
         i  = sl[0].index("{")
         j  = sl[0].index("}")
         full_name += sl[0][i:j+1].replace(" ", "_") + " "
-        temp = sl[1].split(" ")[0] + " "
-        common_name += sl[1].split(" ")[0].split("-")[0] + " "
+        common_name += sl[1].replace(" ", "_") + " "
         if split_length is not None and count_length == split_length:
             full_name += "\n"
             common_name += "\n"
@@ -141,3 +140,68 @@ def PrintNumLines(file_path,num):
                 i += 1
                 continue
         f.close()
+
+def ReadPianoMidiFile(file_path):
+    file = converter.parse(file_path)
+    components = []
+    for i in instrument.partitionByInstrument(file):
+        print(i.partName)
+        if i.partName == "Piano":
+            for element in i.recurse():
+                components.append(element)
+            return components
+
+def ConvertToNote(str_note):
+    str_note = str_note.replace("_"," ")
+    str_note = str_note.strip()
+    note = str_note[0]
+    is_sharp = False
+    is_flat = False
+    if("sharp" in str_note):
+        is_sharp = True
+    if "flat" in str_note:
+        is_flat = True
+    index_octave = str_note.index("octave") + 7
+    octave = str_note[index_octave:(index_octave+1)]
+    if is_flat:
+        note =  note + "-"
+    elif is_sharp:
+        note = note + "#"
+    note = note + octave
+    print("str_note="+str_note)
+    print("note ="+note)
+    return music21.note.Note(nameWithOctave=note)
+
+def TransferStyle(midiFilePath,translatedChordListFile,outputFile):
+    chords = []
+    with open(translatedChordListFile, 'r') as f:
+        for line in f:
+            line = line.strip()
+            str_chords = line.split(" ")
+            for str_chord in str_chords:
+                str_notes = str_chord.replace("{", "").replace("}", "").split("|")
+                notes = []
+                for str_note in str_notes:
+                    note = ConvertToNote(str_note)
+                    notes.append(note)
+                chord = music21.chord.Chord(notes)
+                chords.append(chord)
+    count = 0
+    outScore = music21.stream.Score()
+    components = ReadPianoMidiFile(midiFilePath)
+    print (components)
+    for i in range(len(components)):
+        ele = components[i]
+        countTempo = 0
+        if type(ele) is music21.chord.Chord and count < len(chords):
+            tempDuration = ele.duration
+            tempOffset = ele.offset
+            ele.__dict__ = chords[count].__dict__
+            ele.duration = tempDuration
+            ele.offset = tempOffset
+            count +=1
+        if type(ele) is music21.tempo.MetronomeMark:
+            countTempo +=1
+        if countTempo == 0 or type(ele) is not music21.tempo.MetronomeMark:
+            outScore.append(ele)
+    fp = outScore.write('midi', fp=outputFile)
