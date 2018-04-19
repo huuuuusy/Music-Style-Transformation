@@ -16,7 +16,7 @@ def ReadMidi(file_path):
 
 def TransferMidToChordTxt(file_path):
     try:
-        components = readMidiFile(file_path=file_path)
+        components = ReadMidi(file_path=file_path)
         startPiano = True 
         printRatio = True
         printHighest = True
@@ -50,7 +50,7 @@ def TransferMidToChordTxt(file_path):
     except:
         pass
 
-def ExtractNodeAndChord(file_path, split_length,out_node_path,out_chord_path):
+def ExtractNoteAndChord(file_path, split_length,out_note_path,out_chord_path):
     read_data = None
     full_name = ""
     common_name = ""
@@ -76,12 +76,12 @@ def ExtractNodeAndChord(file_path, split_length,out_node_path,out_chord_path):
         full_name = full_name[:-1]
     if common_name.endswith("\n"):
         common_name = common_name[:-1]
-    #print ("--------This is tpye.node--------")
+    #print ("--------This is tpye.note--------")
     #print (full_name)
     #print ("\n")
     #print ("--------This is type.chord--------")
     #print (common_name)
-    with open(out_node_path, 'a') as f:
+    with open(out_note_path, 'a') as f:
         f.write(full_name + '\n')
     with open(out_chord_path, 'a') as f:
         f.write(common_name + '\n')
