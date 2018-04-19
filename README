@@ -6,11 +6,11 @@ First, select 800 jazz to build the original data set, and divide the data set i
 
 train: 600
 
- dev:50
+dev:50
 
- test:150
+test:150
 
- Then, use music21 to extract information from the original MIDI song and retrieve its track information to save in the txt file.
+Then, use music21 to extract information from the original MIDI song and retrieve its track information to save in the txt file.
 
 Next, for the track information in each txt file, split it and get the chord and note sperately, save these two information in different files. This step is done for all folders. Finally we get six files: 
 
