@@ -1,7 +1,0 @@
-# Introduction
-
-In this project, we want to construct a music style converter that can use machine learning algorithms to perform style conversions for incoming MIDI music. We chose jazz music as a goal of conversion. 
-
-The overall thinking is as follows:
-First, select 800 jazz to build the original data set, and divide the data set into three parts: train(600), dev(50), test(150). Use music21 to extract information from the original MIDI song and retrieve its orbit information. , and save it to txt file.
-Then, for the track information in the txt file, each song is obtained by splitting
