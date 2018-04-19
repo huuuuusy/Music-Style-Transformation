@@ -94,9 +94,9 @@ In this part, we've tried different parameter combinations to verify the trainin
 
 There are two possible methods to extract notes information:
 
-The first one, extract the note information with its duration information(such as **F#4-flat-ninth_pentachord**).
+The first one, all-information: extract the note information with its duration information(such as **F#4-flat-ninth_pentachord**).
 
-The second one, only extract the note information(such as **F#4**).
+The second one, single-information: only extract the note information(such as **F#4**).
 
 2. num_train_steps:
 
@@ -111,3 +111,40 @@ We've tried two different values of **num_units**: 128 and 256.
 ***If you want to set the num_units larger, please make sure that your device is good enough. If you do not have a gpu or the gpu memory is not enough, please reduce the num_units to avoid out of memory error!***
 
 ## 4.2 Results
+### Experiment1
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|All-Information|12000|128|
+
+![](img/exp-1.png)
+
+### Experiment2
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|All-Information|24000|128|
+
+![](img/exp-2.png)
+
+### Experiment3
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|All-Information|50000|128|
+
+![](img/exp-3.png)
+
+### Experiment4
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|Single-Information|24000|128|
+
+![](img/exp-4.png)
+
+### Experiment5
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|Single-Information|24000|256|
