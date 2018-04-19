@@ -52,3 +52,25 @@ The necessary packages for building the deep learning environment:
 |[CUDA](https://developer.nvidia.com/cuda-downloads)|9.0|
 |[cuDNN](https://developer.nvidia.com/cudnn)|7.0|
 |[Tensorflow](https://www.tensorflow.org/?hl=zh-cn)|1.7-gpu|
+
+## Visualization
+
+### TensorBoard
+
+[TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) is used to visualize the TensorFlow graph, plot quantitative metrics about the execution of the graph, and show additional data like images that pass through it. The main page of it looks like:
+
+![](img/tensorboard.png)
+
+We can use the command below to open TensorBoard:
+
+    tensorboard --logdir=/home/hu/桌面/7404-GroupA/nmt/tmp/model-data-4/train_log --port 4004
+    
+logdir is the path of the NMT log file and port will set the port to show the web UI(the default port is 6006)
+
+### MuseScore
+
+[MuseScore](https://musescore.com/dashboard) is a free scorewriter for Windows, macOS, and Linux, comparable to Finale and Sibelius, supporting a wide variety of file formats and input methods. It is released as free and open-source software under the GNU General Public License.
+
+For Ubunutu16.04, the UI looks like:
+
+![](img/musescore.png)
