@@ -22,10 +22,33 @@ After that, we will use Tensorflow NMT to accomplish the training process. We re
 
 # Requirements
 
-## Music21
+## Data Processing
+
+### Music21
 
 [Music21](http://web.mit.edu/music21/) is a set of tools for helping scholars and other active listeners answer questions about music quickly and simply. 
 
 Music21 is very useful in processing the MIDI music. [MIDI](https://en.wikipedia.org/wiki/MIDI) (Musical Instrument Digital Interface) is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related music and audio devices. A single MIDI link can carry up to sixteen channels of information, each of which can be routed to a separate device.
 
 In this project, we mainly use music21 to extract the information in MIDI files. This useful package can help us to extract the track, chord and note information for the input MIDI, and can also use these information to generate a new song.
+
+## Model Training
+
+### Neural Machine Translation (seq2seq) 
+
+Tensorflow [NMT](https://github.com/tensorflow/nmt)(Neural Machine Translation) is a Sequence-to-sequence (seq2seq) model which can help us enjoy great success in a variety of tasks such as machine translation, speech recognition, and text summarization. 
+
+The advantage is that this model is well designed by Google, thus we can train it easily by providing the source sequence and the target dequence with some model structure parameters.
+
+### Deep Learning Environment
+
+Since training NMT requires enough data processing ability, we need to build a deep learning environment for model training. To increase the training speed, it's better to use GPU in this process.
+
+The necessary packages for building the deep learning environment:
+
+|Name|Version|
+|:--:|:--:|
+|GPU|Nvidia GTX1070|
+|[CUDA](https://developer.nvidia.com/cuda-downloads)|9.0|
+|[cuDNN](https://developer.nvidia.com/cudnn)|7.0|
+|[Tensorflow](https://www.tensorflow.org/?hl=zh-cn)|1.7-gpu|
