@@ -65,7 +65,8 @@ def ExtractNoteAndChord(file_path, split_length,out_note_path,out_chord_path):
         i  = sl[0].index("{")
         j  = sl[0].index("}")
         full_name += sl[0][i:j+1].replace(" ", "_") + " "
-        common_name += sl[1].replace(" ", "_") + " "
+        temp = sl[1].split(" ")[0] + " "
+        common_name += sl[1].split(" ")[0].split("-")[0] + " "
         if split_length is not None and count_length == split_length:
             full_name += "\n"
             common_name += "\n"
