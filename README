@@ -1,4 +1,5 @@
 # INTRODUCTION
+
 In this project, we want to construct a music style converter that can use machine learning algorithms to perform style conversions for the input  MIDI music.  We chose jazz music as a goal of conversion. The overall thinking is as follows:
 
 First, select 800 jazz to build the original data set, and divide the data set into three parts: 
