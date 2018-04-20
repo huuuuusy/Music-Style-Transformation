@@ -148,3 +148,5 @@ We've tried two different values of **num_units**: 128 and 256.
 |Note|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |Single-Information|24000|256|
+
+![](img/exp-5.png)
