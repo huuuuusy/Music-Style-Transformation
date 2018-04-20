@@ -1,0 +1,536 @@
+308.0
+4/4
+FullName,CommonName,Len,Offset
+Chord {B in octave 3 | F in octave 4 | B-flat in octave 4 | E-flat in octave 5} Half,E-5-minor-second quartal tetrachord,2.0,13.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Quarter,G#4-minor seventh chord,1.0,16.75
+Chord {A in octave 3 | E-flat in octave 4 | F in octave 4 | B in octave 4} Quarter,F4-Messiaen's truncated mode 6,1.0,18.75
+Chord {C-sharp in octave 4 | G in octave 4 | B-flat in octave 4 | F in octave 5} 16th,G4-half-diminished seventh chord,0.25,19.75
+Chord {B in octave 2 | F in octave 3 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),B2-tritone-fourth,2.25,21.75
+Chord {G in octave 3 | C-sharp in octave 4 | B-flat in octave 4 | C in octave 5} Half,C#4-perfect-fourth diminished tetrachord,2.0,24.0
+Chord {E-flat in octave 3 | A in octave 3 | C in octave 5} Half,A3-diminished triad,2.0,26.0
+Chord {G-sharp in octave 3 | C in octave 4 | C-sharp in octave 4 | F in octave 4 | B-flat in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#3-minor-ninth chord,5/3,28.0
+Chord {C in octave 4 | F-sharp in octave 4 | B-flat in octave 4 | B-flat in octave 5} Half,B-4-incomplete half-diminished seventh chord,2.0,29.75
+Chord {B-flat in octave 3 | F in octave 4 | G in octave 5} Half,G5-incomplete minor-seventh chord,2.0,31.75
+Chord {B-flat in octave 3 | E in octave 4 | G in octave 4 | C in octave 5} Quarter tied to 16th (1 1/4 total QL),C5-dominant seventh chord,1.25,34.75
+Chord {C in octave 4 | F-sharp in octave 4 | A in octave 4 | D in octave 5} Quarter tied to 16th (1 1/4 total QL),D5-dominant seventh chord,1.25,36.75
+Chord {B in octave 3 | F in octave 4 | A in octave 4 | E in octave 5 | G in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),E5-phrygian pentachord,5/3,38.0
+Chord {B in octave 2 | F in octave 3 | G-sharp in octave 4} Half,G#4-diminished triad,2.0,39.75
+Chord {B-flat in octave 3 | C-sharp in octave 4 | F in octave 4 | G-sharp in octave 4} Quarter tied to 16th (1 1/4 total QL),G#4-minor seventh chord,1.25,42.75
+Chord {D in octave 4 | G-sharp in octave 4 | B-flat in octave 5} Half,G#4-incomplete dominant-seventh chord,2.0,44.0
+Chord {B in octave 3 | F in octave 4} Half,B3-tritone,2.0,46.0
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 4 | D in octave 5} Half,B-3-minor-second quartal tetrachord,2.0,48.0
+Chord {C-sharp in octave 3 | G in octave 3 | B-flat in octave 4} Half,C#3-diminished triad,2.0,50.0
+Chord {E-flat in octave 3 | A in octave 3 | C in octave 5} Half,A3-diminished triad,2.0,52.0
+Chord {B in octave 2 | F in octave 3 | B-flat in octave 4} Half,B2-tritone-fourth,2.0,54.0
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 5} Half,G#5-incomplete dominant-seventh chord,2.0,56.0
+Chord {A in octave 3 | B in octave 3 | E-flat in octave 4 | F-sharp in octave 4 | B in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),F#4-dominant seventh chord,5/3,58.0
+Chord {A in octave 3 | D in octave 4 | E-flat in octave 4 | G in octave 4} 16th,E-4-minor-second quartal tetrachord,0.25,59.75
+Chord {B in octave 3 | F in octave 4 | B-flat in octave 4 | E-flat in octave 5} Half,E-5-minor-second quartal tetrachord,2.0,61.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Quarter,G#4-minor seventh chord,1.0,64.75
+Chord {A in octave 3 | E-flat in octave 4 | F in octave 4 | B in octave 4} Quarter,F4-Messiaen's truncated mode 6,1.0,66.75
+Chord {C-sharp in octave 4 | G in octave 4 | B-flat in octave 4 | F in octave 5} 16th,G4-half-diminished seventh chord,0.25,67.75
+Chord {B in octave 3 | F in octave 4 | E-flat in octave 5} Half,E-5-incomplete half-diminished seventh chord,2.0,69.75
+Chord {C-sharp in octave 3 | G in octave 3 | C in octave 5} Half tied to 16th (2 1/4 total QL),C#3-tritone-fourth,2.25,71.75
+Chord {E-flat in octave 4 | A in octave 4 | C in octave 5 | D in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),A4-perfect-fourth diminished tetrachord,5/3,74.0
+Chord {C-sharp in octave 4 | G-sharp in octave 4 | C in octave 5 | B-flat in octave 5} Half,C#4-lydian tetrachord,2.0,75.75
+Chord {C in octave 4 | F-sharp in octave 4 | B-flat in octave 4 | E-flat in octave 5} Quarter,C4-half-diminished seventh chord,1.0,78.75
+Chord {B-flat in octave 3 | F in octave 4 | G in octave 4 | D in octave 5} Half tied to 16th (2 1/4 total QL),G4-minor seventh chord,2.25,79.75
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 4 | D in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),B-3-minor-second quartal tetrachord,5/3,82.0
+Chord {C in octave 4 | F-sharp in octave 4 | A in octave 4 | E in octave 5} Half tied to 16th (2 1/4 total QL),F#4-half-diminished seventh chord,2.25,83.75
+Chord {B in octave 3 | F in octave 4 | A in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),B3-incomplete half-diminished seventh chord,5/3,86.0
+Chord {B in octave 3 | F in octave 4 | C-sharp in octave 5} Half tied to 16th (2 1/4 total QL),B3-incomplete dominant-seventh chord,2.25,87.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#4-minor seventh chord,5/3,90.0
+Chord {G-sharp in octave 3 | D in octave 4 | G in octave 4 | C in octave 5 | B-flat in octave 5} Half tied to 16th (2 1/4 total QL),G#3-phrygian pentachord,2.25,91.75
+Chord {B in octave 3 | F in octave 4 | E-flat in octave 5} Half,E-5-incomplete half-diminished seventh chord,2.0,94.0
+Chord {B-flat in octave 3 | D in octave 4 | E in octave 4 | A in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),B-3-minor-second quartal tetrachord,5/3,96.0
+Chord {C-sharp in octave 4 | F in octave 4 | G in octave 4 | B-flat in octave 4 | C in octave 5} Half tied to 16th (2 1/4 total QL),G4-Kumoi pentachord,2.25,97.75
+Chord {E-flat in octave 4 | G in octave 4 | A in octave 4 | D in octave 5} Quarter,E-4-minor-second quartal tetrachord,1.0,100.75
+Chord {B in octave 3 | E-flat in octave 4 | F in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),E-4-minor-second quartal tetrachord,2.25,101.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#4-minor seventh chord,5/3,104.0
+Chord {E-flat in octave 4 | A in octave 4 | B in octave 5} Half,A4-incomplete dominant-seventh chord,2.0,105.75
+Chord {A in octave 3 | E-flat in octave 4 | G in octave 4 | D in octave 5} Half tied to 16th (2 1/4 total QL),E-4-minor-second quartal tetrachord,2.25,107.75
+Chord {B in octave 2 | F in octave 3 | G-sharp in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),G#4-diminished triad,5/3,110.0
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Quarter tied to 16th (1 1/4 total QL),G#4-minor seventh chord,1.25,112.75
+Chord {A in octave 3 | E-flat in octave 4 | F in octave 4 | B in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),F4-Messiaen's truncated mode 6,5/3,114.0
+Chord {G in octave 3 | C-sharp in octave 4 | F in octave 4 | C in octave 5} Half,F4-minor-second quartal tetrachord,2.0,115.75
+Chord {F in octave 3 | B in octave 3 | G-sharp in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),G#4-perfect-fourth diminished tetrachord,2.25,117.75
+Chord {G in octave 3 | C in octave 4 | C-sharp in octave 4 | F in octave 4} Half,F4-minor-second quartal tetrachord,2.0,120.0
+Chord {A in octave 3 | E-flat in octave 4 | C in octave 5 | D in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),A3-perfect-fourth diminished tetrachord,5/3,122.0
+Chord {G-sharp in octave 3 | C-sharp in octave 4 | F in octave 4 | B-flat in octave 4} Half,G#3-minor seventh chord,2.0,123.75
+Chord {F-sharp in octave 3 | B-flat in octave 3 | C in octave 4 | F in octave 4} Half tied to 16th (2 1/4 total QL),B-3-minor-second quartal tetrachord,2.25,125.75
+Chord {F in octave 3 | G in octave 3 | B-flat in octave 3 | D in octave 4 | G in octave 5} Half,G3-minor seventh chord,2.0,128.0
+Chord {B-flat in octave 3 | D in octave 4 | E in octave 4 | A in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),B-3-minor-second quartal tetrachord,5/3,130.0
+Chord {C in octave 4 | E in octave 4 | F-sharp in octave 4 | A in octave 4 | B in octave 4} Half tied to 16th (2 1/4 total QL),F#4-Kumoi pentachord,2.25,131.75
+Chord {B in octave 3 | F in octave 4 | G in octave 5} Half,G5-incomplete dominant-seventh chord,2.0,134.0
+Chord {B in octave 3 | F in octave 4 | B-flat in octave 4 | E-flat in octave 5} Quarter,E-5-minor-second quartal tetrachord,1.0,136.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | G-sharp in octave 5} Half,G#4-incomplete dominant-seventh chord,2.0,137.75
+Chord {G-sharp in octave 3 | D in octave 4 | E in octave 4 | G in octave 4 | C in octave 5 | B-flat in octave 5} Half tied to 16th (2 1/4 total QL),C5-Scriabin's Mystic-chord,2.25,139.75
+Chord {B in octave 2 | F in octave 3 | G in octave 4} Half,G4-incomplete dominant-seventh chord,2.0,142.0
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),A5-tritone-fourth,5/3,144.0
+Chord {C-sharp in octave 4 | G in octave 4 | C in octave 5 | F in octave 5} Quarter tied to 16th (1 1/4 total QL),F5-minor-second quartal tetrachord,1.25,146.75
+Chord {E-flat in octave 4 | A in octave 4 | D in octave 5 | G in octave 5} Half,E-4-minor-second quartal tetrachord,2.0,148.0
+Chord {B in octave 2 | F in octave 3 | B-flat in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),B2-tritone-fourth,5/3,150.0
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half tied to 16th (2 1/4 total QL),G#4-minor seventh chord,2.25,151.75
+Chord {A in octave 3 | E-flat in octave 4 | F-sharp in octave 4 | C-sharp in octave 5 | B in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),F#4-dominant-ninth,5/3,154.0
+Chord {E-flat in octave 3 | A in octave 3 | C in octave 5} Half,A3-diminished triad,2.0,155.75
+Chord {F in octave 3 | B in octave 3 | E-flat in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),E-4-minor-second quartal tetrachord,2.25,157.75
+Chord {F in octave 3 | G-sharp in octave 3 | B-flat in octave 3 | C-sharp in octave 4 | G-sharp in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#3-minor seventh chord,5/3,160.0
+Chord {E-flat in octave 4 | A in octave 4 | C-sharp in octave 6} Half,A4-incomplete half-diminished seventh chord,2.0,161.75
+Chord {G in octave 3 | C-sharp in octave 4 | F in octave 4 | C in octave 5} Quarter tied to 16th (1 1/4 total QL),F4-minor-second quartal tetrachord,1.25,164.75
+Chord {F in octave 3 | B in octave 3 | E-flat in octave 4 | B-flat in octave 4} Half,E-4-minor-second quartal tetrachord,2.0,166.0
+Chord {G in octave 3 | C-sharp in octave 4 | B-flat in octave 4 | C in octave 5} Half,C#4-perfect-fourth diminished tetrachord,2.0,168.0
+Chord {A in octave 3 | D in octave 4 | E-flat in octave 4 | C in octave 5} Half,A3-perfect-fourth diminished tetrachord,2.0,170.0
+Chord {C-sharp in octave 4 | G-sharp in octave 4 | C in octave 6} Half Tuplet of 6/5ths (1 2/3 QL),C#4-incomplete major-seventh chord,5/3,172.0
+Chord {F-sharp in octave 3 | C in octave 4 | F in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),B-4-minor-second quartal tetrachord,2.25,173.75
+Chord {F in octave 3 | B-flat in octave 3 | D in octave 4 | G in octave 4} Quarter,G4-minor seventh chord,1.0,176.75
+Chord {B-flat in octave 3 | E in octave 4 | G in octave 4 | C in octave 5} Half tied to 16th (2 1/4 total QL),C5-dominant seventh chord,2.25,177.75
+Chord {C in octave 3 | F-sharp in octave 3 | A in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),F#3-diminished triad,5/3,180.0
+Chord {B in octave 3 | F in octave 4 | A in octave 4 | E in octave 5 | G in octave 5} Half,E5-phrygian pentachord,2.0,181.75
+Chord {B in octave 3 | C-sharp in octave 4 | F in octave 4 | G-sharp in octave 4} Quarter,G#4-dominant seventh chord,1.0,184.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half tied to 16th (2 1/4 total QL),G#4-minor seventh chord,2.25,185.75
+Chord {D in octave 4 | G-sharp in octave 4 | B-flat in octave 5} Half,G#4-incomplete dominant-seventh chord,2.0,188.0
+Chord {F in octave 3 | G in octave 3 | B in octave 3 | E-flat in octave 4 | B-flat in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),E-4-enigmatic pentachord,5/3,190.0
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 5} Half,A5-tritone-fourth,2.0,191.75
+Chord {C-sharp in octave 4 | G in octave 4 | B-flat in octave 4 | C in octave 5 | F in octave 5} Half,G4-Kumoi pentachord,2.0,193.75
+Chord {E-flat in octave 4 | A in octave 4 | D in octave 5 | G in octave 5} Quarter,E-4-minor-second quartal tetrachord,1.0,196.75
+Chord {B in octave 3 | F in octave 4 | E-flat in octave 5} Half,E-5-incomplete half-diminished seventh chord,2.0,197.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 5} Half,G#5-incomplete dominant-seventh chord,2.0,199.75
+Chord {A in octave 3 | E-flat in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half tied to 16th (2 1/4 total QL),A3-minor-second quartal tetrachord,2.25,201.75
+Chord {A in octave 3 | D in octave 4 | E-flat in octave 4 | G in octave 4} Quarter,E-4-minor-second quartal tetrachord,1.0,204.75
+Chord {B in octave 2 | F in octave 3 | G-sharp in octave 4} Half,G#4-diminished triad,2.0,205.75
+Chord {B-flat in octave 3 | C-sharp in octave 4 | F in octave 4 | G-sharp in octave 4} Quarter,G#4-minor seventh chord,1.0,208.75
+Chord {A in octave 3 | E-flat in octave 4 | F in octave 4 | C-sharp in octave 5 | B in octave 5} Half tied to 16th (2 1/4 total QL),F4-whole-tone pentachord,2.25,209.75
+Chord {C-sharp in octave 3 | G in octave 3 | C in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),C#3-tritone-fourth,5/3,212.0
+Chord {B in octave 3 | F in octave 4 | G-sharp in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),G#4-perfect-fourth diminished tetrachord,2.25,213.75
+Chord {C-sharp in octave 4 | G in octave 4 | F in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),F5-incomplete half-diminished seventh chord,5/3,216.0
+Chord {E-flat in octave 4 | A in octave 4 | C in octave 5 | D in octave 5 | G in octave 5} Half,A4-Kumoi pentachord,2.0,217.75
+Chord {C-sharp in octave 4 | F in octave 4 | G-sharp in octave 4 | C in octave 5} Quarter,F4-major seventh chord,1.0,220.75
+Chord {C in octave 4 | F-sharp in octave 4 | B-flat in octave 4 | E-flat in octave 5} Half tied to 16th (2 1/4 total QL),C4-half-diminished seventh chord,2.25,221.75
+Chord {B-flat in octave 3 | D in octave 4 | F in octave 4 | G in octave 4} Quarter tied to 16th (1 1/4 total QL),G4-minor seventh chord,1.25,224.75
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 4 | D in octave 5} Half,B-3-minor-second quartal tetrachord,2.0,226.0
+Chord {C in octave 4 | E in octave 4 | F-sharp in octave 4 | B in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),C4-minor-second quartal tetrachord,5/3,228.0
+Chord {B in octave 3 | F in octave 4 | G in octave 5} Half tied to 16th (2 1/4 total QL),G5-incomplete dominant-seventh chord,2.25,229.75
+Chord {B in octave 3 | E-flat in octave 4 | F in octave 4 | G-sharp in octave 4} Quarter tied to 16th (1 1/4 total QL),E-4-half-diminished seventh chord,1.25,232.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Quarter tied to 16th (1 1/4 total QL),G#4-minor seventh chord,1.25,234.75
+Chord {G-sharp in octave 3 | C in octave 4 | D in octave 4 | E in octave 4 | G in octave 4} Half,C4-enigmatic pentachord,2.0,236.0
+Chord {F in octave 3 | B in octave 3 | E-flat in octave 4 | G-sharp in octave 4 | B-flat in octave 4} Half,E-4-Kumoi pentachord,2.0,238.0
+Chord {B-flat in octave 3 | E in octave 4 | G in octave 4 | D in octave 5 | G in octave 5} Half,E4-half-diminished seventh chord,2.0,240.0
+Chord {C-sharp in octave 4 | G in octave 4} Half,C#4-tritone,2.0,242.0
+Chord {E-flat in octave 3 | A in octave 3 | C in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),A3-diminished triad,5/3,244.0
+Chord {B in octave 3 | F in octave 4 | B-flat in octave 4 | E-flat in octave 5 | G in octave 5} Quarter tied to 16th (1 1/4 total QL),E-5-enigmatic pentachord,1.25,246.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#4-minor seventh chord,5/3,248.0
+Chord {A in octave 3 | C-sharp in octave 4 | E-flat in octave 4 | G-sharp in octave 4} Quarter,A3-minor-second quartal tetrachord,1.0,250.75
+Chord {A in octave 3 | E-flat in octave 4 | G in octave 4 | D in octave 5} 16th,E-4-minor-second quartal tetrachord,0.25,251.75
+Chord {A in octave 3 | E-flat in octave 4 | G in octave 4 | D in octave 5} Quarter,E-4-minor-second quartal tetrachord,1.0,252.75
+Chord {F in octave 3 | B in octave 3 | E-flat in octave 4 | B-flat in octave 4} Quarter,E-4-minor-second quartal tetrachord,1.0,254.75
+Chord {F in octave 3 | G-sharp in octave 3 | B-flat in octave 3 | C-sharp in octave 4} Quarter tied to 16th (1 1/4 total QL),G#3-minor seventh chord,1.25,256.75
+Chord {A in octave 3 | E-flat in octave 4 | F in octave 4 | B in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),F4-Messiaen's truncated mode 6,5/3,258.0
+Chord {G in octave 3 | C-sharp in octave 4 | B-flat in octave 4 | C in octave 5} Half tied to 16th (2 1/4 total QL),C#4-perfect-fourth diminished tetrachord,2.25,259.75
+Chord {F in octave 3 | B in octave 3 | E-flat in octave 4 | B-flat in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),E-4-minor-second quartal tetrachord,5/3,262.0
+Chord {G in octave 3 | C in octave 4 | C-sharp in octave 4 | B-flat in octave 4} Half tied to 16th (2 1/4 total QL),C4-perfect-fourth diminished tetrachord,2.25,263.75
+Chord {A in octave 3 | E-flat in octave 4 | G in octave 4 | D in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),E-4-minor-second quartal tetrachord,5/3,266.0
+Chord {C-sharp in octave 4 | G-sharp in octave 4 | B-flat in octave 5} Half tied to 16th (2 1/4 total QL),C#4-incomplete minor-seventh chord,2.25,267.75
+Chord {C in octave 4 | F-sharp in octave 4 | B-flat in octave 5} Half,B-5-incomplete half-diminished seventh chord,2.0,270.0
+Chord {B-flat in octave 3 | F in octave 4 | G in octave 4 | D in octave 5} Quarter,G4-minor seventh chord,1.0,272.75
+Chord {B-flat in octave 3 | E in octave 4 | A in octave 4 | D in octave 5} Half tied to 16th (2 1/4 total QL),B-3-minor-second quartal tetrachord,2.25,273.75
+Chord {C in octave 3 | F-sharp in octave 3 | A in octave 4} Half,F#3-diminished triad,2.0,276.0
+Chord {B in octave 3 | F in octave 4 | G in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G5-incomplete dominant-seventh chord,5/3,278.0
+Chord {B in octave 3 | E-flat in octave 4 | F in octave 4 | G in octave 4 | B-flat in octave 4} Quarter,E-4-enigmatic pentachord,1.0,280.75
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 4 | G-sharp in octave 5} Half,G#4-incomplete dominant-seventh chord,2.0,281.75
+Chord {D in octave 4 | G-sharp in octave 4 | C in octave 6} Half,C6-incomplete half-diminished seventh chord,2.0,283.75
+Chord {B in octave 3 | C-sharp in octave 4 | F in octave 4 | G-sharp in octave 4} Half,G#4-dominant seventh chord,2.0,285.75
+Chord {B-flat in octave 3 | D in octave 4 | E in octave 4 | A in octave 4} Half tied to 16th (2 1/4 total QL),B-3-minor-second quartal tetrachord,2.25,287.75
+Chord {C-sharp in octave 4 | F in octave 4 | G in octave 4 | B-flat in octave 4} Half Tuplet of 6/5ths (1 2/3 QL),G4-half-diminished seventh chord,5/3,290.0
+Chord {E-flat in octave 4 | A in octave 4 | D in octave 5 | G in octave 5} Half tied to 16th (2 1/4 total QL),E-4-minor-second quartal tetrachord,2.25,291.75
+Chord {B in octave 2 | F in octave 3 | B-flat in octave 4} Half,B2-tritone-fourth,2.0,294.0
+Chord {B-flat in octave 3 | F in octave 4 | G-sharp in octave 5} Half Tuplet of 6/5ths (1 2/3 QL),G#5-incomplete dominant-seventh chord,5/3,296.0
+Chord {A in octave 3 | E-flat in octave 4 | G-sharp in octave 4 | C-sharp in octave 5} Half tied to 16th (2 1/4 total QL),A3-minor-second quartal tetrachord,2.25,297.75
+Chord {A in octave 4 | C in octave 5 | G in octave 5} Eighth Triplet (1/3 QL),A4-incomplete minor-seventh chord,1/3,300.0
+Chord {G in octave 4 | B-flat in octave 4 | G in octave 5} Eighth,G4-interval class 3,0.5,302.0
+Chord {G-sharp in octave 4 | B in octave 4 | G in octave 5} Eighth Triplet (1/3 QL),G#4-major-minor trichord,1/3,304.0
+Chord {A in octave 4 | C in octave 5 | G in octave 5} Quarter,A4-incomplete minor-seventh chord,1.0,917/3
+Chord {B in octave 1 | F-sharp in octave 2 | C-sharp in octave 3} 16th,B1-quartal trichord,0.25,12.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,13.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,41/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,14.0
+Chord {F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-diminished triad,0.25,15.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,47/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,16.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,17.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,53/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,18.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,19.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,20.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,21.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,22.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,68/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,23.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,24.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,25.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,26.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,80/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,27.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,28.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,29.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,89/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,30.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,31.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,95/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,32.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,33.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,34.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,35.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,36.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,37.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,113/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,38.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,39.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,40.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,41.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,42.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,43.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,131/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,44.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,45.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,46.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,140/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,47.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,48.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,49.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,50.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,51.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,52.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,53.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,54.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,164/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,55.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,56.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,57.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,173/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,58.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,59.0
+Chord {D in octave 2 | E-flat in octave 3} 16th,E-3-interval class 1,0.25,179/3
+Chord {B in octave 1 | F-sharp in octave 2 | C-sharp in octave 3} 16th,B1-quartal trichord,0.25,60.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,61.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,185/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,62.0
+Chord {F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-diminished triad,0.25,63.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,191/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,64.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,65.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,197/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,66.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,67.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,68.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,69.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,70.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,212/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,71.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,72.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,73.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,74.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,75.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,76.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,77.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,78.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,79.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,80.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,81.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,82.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,83.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,251/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,84.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,85.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,86.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,87.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,263/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,88.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,89.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,269/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,90.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,91.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,92.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,93.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,94.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,95.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,287/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,96.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,97.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,293/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,98.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,99.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,100.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,101.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,102.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,308/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,103.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,104.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,105.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,317/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,106.0
+Chord {B in octave 1 | D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,B1-major-minor tetramirror,0.25,107.0
+Chord {D in octave 2 | E-flat in octave 3} 16th,E-3-interval class 1,0.25,323/3
+Chord {B in octave 1 | F-sharp in octave 2 | C-sharp in octave 3} 16th,B1-quartal trichord,0.25,108.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,109.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,329/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,110.0
+Chord {F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-diminished triad,0.25,111.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,335/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,112.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,113.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,114.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,344/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,115.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,116.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,117.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,353/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,118.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,119.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,359/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,120.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,121.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,122.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,123.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,371/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,124.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,125.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,377/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,126.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,127.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,383/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,128.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,129.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,389/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,130.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,131.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,132.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,133.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,134.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,404/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,135.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,136.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,137.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,413/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,138.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,139.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,140.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,141.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,425/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,142.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,143.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,144.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,145.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,146.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,440/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,147.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,148.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,149.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,449/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,150.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,151.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,455/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,152.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,153.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,461/3
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,154.0
+Chord {F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-diminished triad,0.25,155.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,467/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,156.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,157.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,158.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,159.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,160.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,161.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,162.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,163.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,491/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,164.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,165.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,166.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,167.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,503/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,168.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,169.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,509/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,170.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,171.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,172.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,173.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,174.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,524/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,175.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,176.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,177.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,533/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,178.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,179.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,180.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,181.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,545/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,182.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,183.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,184.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,185.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,557/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,186.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,187.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,563/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,188.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,189.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,190.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,572/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,191.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,192.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,193.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,581/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,194.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,195.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,587/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,196.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,197.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,593/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,198.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,199.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,599/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,200.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,201.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,605/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,202.0
+Chord {B in octave 1 | D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,B1-major-minor tetramirror,0.25,203.0
+Chord {D in octave 2 | E-flat in octave 3} 16th,E-3-interval class 1,0.25,611/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,204.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,205.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,206.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,620/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,207.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,208.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,209.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,210.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,211.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,635/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,212.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,213.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,214.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,215.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,216.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,217.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,218.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,656/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,219.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,220.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,221.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,222.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,668/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,223.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,224.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,225.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,226.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,680/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,227.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,228.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,229.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,689/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,230.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,231.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,695/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,232.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,233.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,234.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,704/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,235.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,236.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,237.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,238.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,239.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,719/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,240.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,241.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,725/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,242.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,243.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,731/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,244.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,245.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,737/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,246.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,247.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,248.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,249.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,749/3
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,250.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,251.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,755/3
+Chord {B in octave 1 | F-sharp in octave 2 | C-sharp in octave 3} 16th,B1-quartal trichord,0.25,252.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,253.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,761/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,254.0
+Chord {F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-diminished triad,0.25,255.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,767/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,256.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,257.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,773/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,258.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,259.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,779/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,260.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,261.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,785/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,262.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,263.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,791/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,264.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,265.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,266.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,800/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,267.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,268.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,269.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,270.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,271.0
+Chord {B in octave 1 | D in octave 2} 16th,B1-interval class 3,0.25,815/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,272.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,273.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,274.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,275.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,276.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,277.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,833/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,278.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,279.0
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,280.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,281.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,845/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,282.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,283.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,851/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,284.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,285.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,857/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,286.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,287.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,863/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,288.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,289.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,869/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,290.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,291.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,292.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,293.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,294.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,884/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,295.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,296.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,297.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,893/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,298.0
+Chord {B in octave 1 | D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,B1-major-minor tetramirror,0.25,299.0
+Chord {D in octave 2 | E-flat in octave 3} 16th,E-3-interval class 1,0.25,899/3
+Chord {B in octave 1 | F-sharp in octave 2 | E-flat in octave 3} 16th,E-3-major triad,0.25,300.0
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,301.0
+Chord {B in octave 1 | E-flat in octave 3} 16th,E-3-interval class 4,0.25,905/3
+Chord {F-sharp in octave 2 | E-flat in octave 3} 16th,F#2-interval class 3,0.25,302.0
+Chord {D in octave 2 | F-sharp in octave 2 | E-flat in octave 3} 16th,D2-major-minor trichord,0.25,303.0
+Chord {D in octave 2 | E-flat in octave 3} 16th,E-3-interval class 1,0.25,911/3
+Chord {B in octave 1 | F-sharp in octave 2 | A in octave 2 | E-flat in octave 3} 16th,F#2-dominant seventh chord,0.25,304.0
+Chord {F in octave 2 | F-sharp in octave 2} 16th,F2-interval class 1,0.25,305.0
+Chord {B in octave 1 | D in octave 2 | F in octave 2 | F-sharp in octave 2 | C-sharp in octave 3} 16th,B1-Roma (Gypsy) pentachord,0.25,917/3
