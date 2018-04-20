@@ -92,11 +92,11 @@ In this part, we've tried different parameter combinations to verify the trainin
 
 1. Note processing method:
 
-There are two possible methods to extract notes information:
+There are two possible methods to extract chords information:
 
-The first one, all-information: extract the note information with its duration information(such as **F#4-flat-ninth_pentachord**).
+The first one, all-information: extract the chord information with its duration information(such as **F#4-flat-ninth_pentachord**).
 
-The second one, single-information: only extract the note information(such as **F#4**).
+The second one, single-information: only extract the chord information(such as **F#4**).
 
 2. num_train_steps:
 
@@ -113,7 +113,7 @@ We've tried two different values of **num_units**: 128 and 256.
 ## 4.2 Experiments
 ### Experiment1
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |All-Information|12000|128|
 
@@ -121,7 +121,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ### Experiment2
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |All-Information|24000|128|
 
@@ -129,7 +129,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ### Experiment3
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |All-Information|50000|128|
 
@@ -137,7 +137,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ### Experiment4
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |Single-Information|24000|128|
 
@@ -145,7 +145,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ### Experiment5
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |Single-Information|24000|256|
 
@@ -153,7 +153,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ### Experiment6
 
-|Note|num_train_steps|num_units|
+|Chord|num_train_steps|num_units|
 |:--:|:--:|:--:|
 |Single-Information|50000|512|
 
@@ -163,7 +163,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and train loss value to evalute the models.
 
-|Experiment|Note|num_train_steps|num_units|dev_bleu|test_bleu|train_loss|
+|Experiment|Chord|num_train_steps|num_units|dev_bleu|test_bleu|train_loss|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1|All-Information|12000|128|![](img/dev1.png)|![](img/test1.png)|![](img/loss1.png)|
 |2|All-Information|24000|128|![](img/dev2.png)|![](img/test2.png)|![](img/loss2.png)|
@@ -176,7 +176,7 @@ In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and t
 
 It is clearly that:
 
-1. Extract the single note information is better than extract all the information include the duration.
+1. Extract the single chord information is better than extract all the information include the duration.
 
 2. Increase the num units from 128 to 256 may help the model to get a better result. The longer input sequence may help the lstm to get more information about the relationship of different notes and chords.
 
