@@ -171,3 +171,13 @@ In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and t
 |4|Single-Information|24000|128|![](img/dev4.png)|![](img/test4.png)|![](img/loss4.png)|
 |5|Single-Information|24000|256|![](img/dev5.png)|![](img/test5.png)|![](img/loss5.png)|
 |6|Single-Information|50000|512|![](img/dev6.png)|![](img/test6.png)|![](img/loss6.png)|
+
+![](img/result)
+
+It is clearly that:
+
+1. Extract the single note information is better than extract all the information include the duration.
+
+2. Increase the num units from 128 to 256 may help the model to get a better result. The longer input sequence may help the lstm to get more information about the relationship of different notes and chords.
+
+3. The training steps should be bigger enough to provide the model have enough training process. 24000 is enough to provide throughly training for this model.
