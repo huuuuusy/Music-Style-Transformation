@@ -110,7 +110,7 @@ We've tried two different values of **num_units**: 128 and 256.
 
 ***If you want to set the num_units larger, please make sure that your device is good enough. If you do not have a gpu or the gpu memory is not enough, please reduce the num_units to avoid out of memory error!***
 
-## 4.2 Results
+## 4.2 Experiments
 ### Experiment1
 
 |Note|num_train_steps|num_units|
@@ -150,3 +150,19 @@ We've tried two different values of **num_units**: 128 and 256.
 |Single-Information|24000|256|
 
 ![](img/exp-5.png)
+
+### Experiment6
+
+|Note|num_train_steps|num_units|
+|:--:|:--:|:--:|
+|Single-Information|50000|512|
+
+![](img/exp-6.png)
+
+## 4.3 Results
+
+In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and train loss value to evalute the models.
+
+|Experiment|Note|num_train_steps|num_units|dev_bleu|test_bleu|train_loss|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|1|All-Information|12000|128|![dev_bleu=0](img/dev1.png)|![test_bleu=0](img/test1.png)|![](img/loss1.png)|
