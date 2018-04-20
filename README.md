@@ -165,4 +165,9 @@ In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and t
 
 |Experiment|Note|num_train_steps|num_units|dev_bleu|test_bleu|train_loss|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|1|All-Information|12000|128|![dev_bleu=0](img/dev1.png)|![test_bleu=0](img/test1.png)|![](img/loss1.png)|
+|1|All-Information|12000|128|![](img/dev1.png)|![](img/test1.png)|![](img/loss1.png)|
+|2|All-Information|24000|128|![](img/dev2.png)|![](img/test2.png)|![](img/loss2.png)|
+|3|All-Information|50000|128|![](img/dev3.png)|![](img/test3.png)|![](img/loss3.png)|
+|4|Single-Information|24000|128|![](img/dev4.png)|![](img/test4.png)|![](img/loss4.png)|
+|5|Single-Information|24000|256|![](img/dev5.png)|![](img/test5.png)|![](img/loss5.png)|
+|6|Single-Information|50000|512|![](img/dev6.png)|![](img/test6.png)|![](img/loss6.png)|
