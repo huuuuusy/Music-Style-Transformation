@@ -1,0 +1,21 @@
+181.0
+4/4
+FullName,CommonName,Len,Offset
+Chord {A in octave 4 | E in octave 5} Eighth,A4-interval class 5,0.5,21.0
+Chord {G-sharp in octave 4 | B in octave 4} Dotted Quarter,G#4-interval class 3,1.5,22.0
+Chord {E in octave 5 | A in octave 5} Dotted Quarter,A5-interval class 5,1.5,40.0
+Chord {A in octave 4 | E in octave 5} Eighth,A4-interval class 5,0.5,86.0
+Chord {G-sharp in octave 4 | B in octave 4} Dotted Quarter,G#4-interval class 3,1.5,87.0
+Chord {E in octave 4 | A in octave 4} Quarter,A4-interval class 5,1.0,89.0
+Chord {E in octave 4 | A in octave 4} 16th,A4-interval class 5,0.25,90.0
+Chord {E in octave 5 | A in octave 5} Dotted Quarter,A5-interval class 5,1.5,105.0
+Chord {B in octave 5 | C-sharp in octave 6} Zero,C#6-interval class 2,0.0,118.5
+Chord {B in octave 5 | C-sharp in octave 6} Zero,C#6-interval class 2,0.0,126.5
+Chord {A in octave 4 | C-sharp in octave 5 | A in octave 5} Eighth,A4-interval class 4,0.5,147.0
+Chord {A in octave 4 | C-sharp in octave 5} Eighth,A4-interval class 4,0.5,149.0
+Chord {A in octave 4 | E in octave 5} Eighth,A4-interval class 5,0.5,150.0
+Chord {E in octave 5 | B in octave 5} Dotted Quarter,E5-interval class 5,1.5,167.0
+Chord {E in octave 4 | A in octave 4} Dotted Quarter,A4-interval class 5,1.5,169.0
+Chord {A in octave 4 | A in octave 5} Half,A4-unison,2.0,179.0
+Chord {F-sharp in octave 3 | C-sharp in octave 4} Half,F#3-interval class 5,2.0,145.0
+Chord {E in octave 4 | G-sharp in octave 4} Half,E4-interval class 4,2.0,151.0
