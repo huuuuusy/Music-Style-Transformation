@@ -4,6 +4,8 @@
 
 The live demo: [here](https://youtu.be/7z7VLspFoMc)
 
+**Since the well-trained NMT model is too large(more than 1.6G) and cannot be uploaded, please download it in Tensorflow [NMT](https://github.com/tensorflow/nmt) and use the commands written in trainModel.ipynb to accomplish the training process in terminal. If you want to download the well-trained model, please use this [link](https://drive.google.com/open?id=14FvH2ReAAo3vSoQDqElxkdBUyep4S6VD)**
+
 In this project, we want to construct a music style converter that can use machine learning algorithms to perform style conversions for the input  MIDI music.  We chose jazz music as a goal of conversion. The overall thinking is as follows:
 
 First, select 800 jazz to build the original data set, and divide the data set into three parts: 
