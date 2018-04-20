@@ -181,3 +181,13 @@ It is clearly that:
 2. Increase the num units from 128 to 256 may help the model to get a better result. The longer input sequence may help the lstm to get more information about the relationship of different notes and chords.
 
 3. The training steps should be bigger enough to provide the model have enough training process. 24000 is enough to provide throughly training for this model.
+
+# V. DEMO
+
+Here is the demo for our music transfermation. 
+
+
+|[River_Flows_In_You](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you)|![](img/River_Flows_In_You-1.png)|![](img/River_Flows_In_You-2.png)|![](img/River_Flows_In_You-3.png)|
+|[River_Flows_In_You_Jazz](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you-jazz)|![](img/River_Flows_In_You_jazz-1.png)|![](img/River_Flows_In_You_jazz-2.png)|![](img/River_Flows_In_You_jazz-3.png)|
+
+
