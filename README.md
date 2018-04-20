@@ -2,6 +2,8 @@
 
 **This project is the group work of HKU COMP7404 Group A, and the team members are: Hu Shiyu, Lu Yuhan, Long Yafeng, Meng Liuchen.**
 
+The live demo: [here](https://youtu.be/7z7VLspFoMc)
+
 In this project, we want to construct a music style converter that can use machine learning algorithms to perform style conversions for the input  MIDI music.  We chose jazz music as a goal of conversion. The overall thinking is as follows:
 
 First, select 800 jazz to build the original data set, and divide the data set into three parts: 
@@ -82,7 +84,13 @@ For Ubunutu16.04, the UI looks like:
 
 ## 3.1 Data Process
 
+![](img/data1.png)
+
 ## 3.2 NMT
+
+![](img/data2.png)
+
+![](img/data3.png)
 
 # IV. EXPERIMENTS
 
@@ -193,6 +201,7 @@ Here is the demo for our music transfermation.
 |River_Flows_In_You_Jazz|[music](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you-jazz)|[Music Score](https://github.com/huuuuusy/Music-Style-Transformation/blob/master/demo/River_Flows_In_You_jazz.pdf)|
 |Undertale_-_Megalovania_Piano_Added_guitar_fixed_tonality|[music](https://soundcloud.com/shiyu-hu-830406788/undertale-megalovania-piano-added-guitar-fixed-tonality)|[Music Score](https://github.com/huuuuusy/Music-Style-Transformation/blob/master/demo/Undertale_-_Megalovania_Piano_Added_guitar_fixed_tonality.pdf)|
 |Undertale_-_Megalovania_Piano_Added_guitar_fixed_tonality_jazz|[music](https://soundcloud.com/shiyu-hu-830406788/undertale-megalovania-piano-added-guitar-fixed-tonality-jazz)|[Music Score](https://github.com/huuuuusy/Music-Style-Transformation/blob/master/demo/Undertale_-_Megalovania_Piano_Added_guitar_fixed_tonality_jazz.pdf)|
+
 
 
 
