@@ -186,8 +186,8 @@ It is clearly that:
 
 Here is the demo for our music transfermation. 
 
+|[River_Flows_In_You](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you)|![](img/01.png)|![](img/02.png)|![](img/03.png)|
 
-|[River_Flows_In_You](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you)|![](img/River_Flows_In_You-1.png)|![](img/River_Flows_In_You-2.png)|![](img/River_Flows_In_You-3.png)|
-|[River_Flows_In_You_Jazz](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you-jazz)|![](img/River_Flows_In_You_jazz-1.png)|![](img/River_Flows_In_You_jazz-2.png)|![](img/River_Flows_In_You_jazz-3.png)|
+|[River_Flows_In_You_Jazz](https://soundcloud.com/shiyu-hu-830406788/river-flows-in-you-jazz)|![](img/11.png)|![](img/12.png)|![](img/13.png)|
 
 
