@@ -172,7 +172,7 @@ In our experiment, we use [BLEU](https://en.wikipedia.org/wiki/BLEU) value and t
 |5|Single-Information|24000|256|![](img/dev5.png)|![](img/test5.png)|![](img/loss5.png)|
 |6|Single-Information|50000|512|![](img/dev6.png)|![](img/test6.png)|![](img/loss6.png)|
 
-![](img/result)
+![](img/result.png)
 
 It is clearly that:
 
