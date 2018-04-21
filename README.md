@@ -102,7 +102,7 @@ In this part, we've tried different parameter combinations to verify the trainin
 
 ***Choice***
 
-1. Note processing method:
+1. Chord processing method:
 
 There are two possible methods to extract chords information:
 
